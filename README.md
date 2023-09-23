@@ -4,7 +4,6 @@ Card Hover is a lightweight and customizable CSS library that allows you to add 
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,9 +11,6 @@ Card Hover is a lightweight and customizable CSS library that allows you to add 
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-Check out the [Card Hover Demo](https://your-demo-link.com) to see the library in action.
 
 ## Features
 
