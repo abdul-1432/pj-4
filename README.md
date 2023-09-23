@@ -44,13 +44,13 @@ Card Hover will soon be available through popular package managers like npm and 
 
 1. Include the Card Hover CSS file in the `<head>` section of your HTML document.
 
-```html
+```HTML
 <link rel="stylesheet" href="path/to/card-hover.css">
 ```
 
 2. Create a card element in your HTML:
 
-```html
+```HTML
 <div class="card">
   <!-- Your card content here -->
 </div>
