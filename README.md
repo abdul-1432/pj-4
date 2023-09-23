@@ -59,14 +59,14 @@ Card Hover will soon be available through popular package managers like npm and 
 3. Add the `card-hover` class to your card element:
 
 ```HTML
-<div class=" card card-hover">
+<div class="card card-hover">
   <!-- Your card content here -->
 </div>
 ```
 
 4. Customize the hover effect by adding specific classes to the card element. For example, to add a scale effect:
 
-```html
+```HTML
 <div class="card card-hover scale">
   <!-- Your card content here -->
 </div>
