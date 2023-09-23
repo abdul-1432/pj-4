@@ -58,8 +58,8 @@ Card Hover will soon be available through popular package managers like npm and 
 
 3. Add the `card-hover` class to your card element:
 
-```html
-<div class="card card-hover">
+```HTML
+<div class=" card card-hover">
   <!-- Your card content here -->
 </div>
 ```
