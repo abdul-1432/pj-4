@@ -30,7 +30,7 @@ To start using Card Hover in your project, you have a few options:
 
 ### 1. Download the CSS File
 
-You can download the Card Hover CSS file from the [GitHub repository](https://github.com/your-repo-link/card-hover) and include it in your project:
+You can download the Card Hover CSS file from the [GitHub repository](https://github.com/abdul-1432/pj-4/blob/main/style.css) and include it in your project:
 
 ```html
 <link rel="stylesheet" href="path/to/card-hover.css">
